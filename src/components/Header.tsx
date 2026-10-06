@@ -68,7 +68,7 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="flex items-center gap-3">
           <span className="font-semibold text-teal-300">UPTD SDN 1 Cempaka</span>
           <span className="text-slate-400">·</span>
-          <span className="text-slate-300 hidden sm:inline">NPSN: 20214589</span>
+          <span className="text-slate-300 hidden sm:inline">NPSN: 20602495</span>
           <span className="text-slate-400 hidden sm:inline">·</span>
           <span className="text-slate-300 hidden md:inline">Mitra Puskesmas Pembina Cempaka</span>
         </div>
