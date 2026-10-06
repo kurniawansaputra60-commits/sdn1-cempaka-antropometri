@@ -121,16 +121,16 @@ export const MonthlyReportView: React.FC<MonthlyReportViewProps> = ({
         <div className="border-b-4 border-double border-slate-900 pb-4 mb-6 text-center relative">
           <div className="space-y-0.5">
             <h4 className="text-xs sm:text-sm font-semibold tracking-wider uppercase text-slate-700">
-              PEMERINTAH DAERAH KABUPATEN · DINAS PENDIDIKAN DAN KEBUDAYAAN
+              PEMERINTAH DAERAH KABUPATEN · DINAS PENDIDIKAN
             </h4>
             <h2 className="text-lg sm:text-xl font-extrabold uppercase tracking-tight text-slate-900">
               UPTD SATUAN PENDIDIKAN SDN 1 CEMPAKA
             </h2>
             <p className="text-xs text-slate-600">
-              Jalan Pendidikan No. 01, Cempaka · NPSN: 20214589 · Akreditasi A
+              Jalan Pendidikan No. 01, Cempaka · NPSN: 20602495 · Akreditasi B
             </p>
             <p className="text-[11px] text-teal-800 font-semibold tracking-wide">
-              PROGRAM TERPADU UKS SEKOLAH SEHAT BEBAS STUNTING BERSAMA PUSKESMAS CEMPAKA
+              PROGRAM TERPADU UKS SEKOLAH SEHAT BEBAS STUNTING BERSAMA PUSKESMAS WARUNGGUNUNG
             </p>
           </div>
         </div>
@@ -261,8 +261,8 @@ export const MonthlyReportView: React.FC<MonthlyReportViewProps> = ({
             <div className="h-20 flex items-end justify-center">
               <div className="w-32 border-b border-slate-800"></div>
             </div>
-            <p className="font-bold text-slate-900 mt-1">H. Mulyadi, M.Pd</p>
-            <p className="text-[11px] text-slate-500 font-mono">NIP. 19740512 199803 1 002</p>
+            <p className="font-bold text-slate-900 mt-1">Nenah, M.Pd</p>
+            <p className="text-[11px] text-slate-500 font-mono">NIP. 19800206 200701 2 008</p>
           </div>
 
           <div>
