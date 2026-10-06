@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Antropometri Digital IoT SDN 1 Cempaka",
+  "description": "Sistem Monitoring Status Pertumbuhan & Gizi Siswa SDN 1 Cempaka Berbasis IoT dengan Deteksi Stunting, Notifikasi WhatsApp, Import Excel, Enkripsi E2E, dan Laporan PDF Bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
